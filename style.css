@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.item{
+    color: #000000;
+font-size: 32px;
+font-weight: 700;
+}
+.header{
+    padding-top: 76px;
+}
+.title{
+    color: #000000;
+font-size: 64px;
+font-weight: 700;
+text-align: center;
+}
+.hero{
+    padding-top: 128px;
+}
+.ota{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bola{
+    width: 558px;
+    height: 452px;
+    background-color: red;
+    color: white;
+    font-size: 77px;
+    margin-left: 100px;
+    margin: 190px;
+    padding-left:  200px;
+    padding-top: 150px;
